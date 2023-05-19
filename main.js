@@ -53,3 +53,5 @@ window.onload = function() {
   secretFactorTab.addEventListener("mouseover", function() {
     contentContainer.textContent = "This is the Secret Factor Content.";
   });
+
+  // I've made some edits hereee
